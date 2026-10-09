@@ -1,0 +1,6 @@
+{
+  "name": "SchemeSaathi — Government Schemes Discovery & Tracking",
+  "description": "Discover, match, apply for, and track Indian government welfare schemes, sanction progress, and disbursement status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
